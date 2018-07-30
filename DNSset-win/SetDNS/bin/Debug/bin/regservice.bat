@@ -1,0 +1,1 @@
+sc create  DNSCrypt binpath= OpenDNSInterface.exe type= own start= auto displayname=  DNSCrypt
